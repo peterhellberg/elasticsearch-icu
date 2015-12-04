@@ -14,6 +14,14 @@ Analysis Plugin][icu]
 
 [upstream]: http://dockerfile.github.io/#/elasticsearch
 
+## Usage
+
+```sh
+docker run -d -p 9200:9200 -p 9300:9300 peterhellberg/elasticsearch-icu
+```
+
+See the documentation for [the upstream Dockerfile][upstream] for more details.
+
 ## License (MIT)
 
 Copyright (c) 2015 [Peter Hellberg](http://c7.se/)
