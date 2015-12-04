@@ -8,6 +8,12 @@ Analysis Plugin][icu]
 [es]: http://www.elastic.co/
 [icu]: http://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-icu-plugin.html
 
+## Base Docker Image
+
+* [dockerfile/elasticsearch:1.7][upstream]
+
+[upstream]: http://dockerfile.github.io/#/elasticsearch
+
 ## License (MIT)
 
 Copyright (c) 2015 [Peter Hellberg](http://c7.se/)
