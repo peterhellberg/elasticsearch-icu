@@ -10,7 +10,7 @@ Analysis Plugin][icu]
 
 ## Base Docker Image
 
-* [dockerfile/elasticsearch:1.7][upstream]
+* [dockerfile/elasticsearch:2.2][upstream]
 
 [upstream]: http://dockerfile.github.io/#/elasticsearch
 
@@ -24,7 +24,7 @@ See the documentation for [the upstream Dockerfile][upstream] for more details.
 
 ## License (MIT)
 
-Copyright (c) 2015 [Peter Hellberg](http://c7.se/)
+Copyright (c) 2015-2016 [Peter Hellberg](http://c7.se/)
 
 > Permission is hereby granted, free of charge, to any person obtaining
 > a copy of this software and associated documentation files (the
