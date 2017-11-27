@@ -5,14 +5,14 @@
 This repository contains a **Dockerfile** of [Elasticsearch][es] and the [ICU
 Analysis Plugin][icu]
 
-[es]: http://www.elastic.co/
-[icu]: http://www.elastic.co/guide/en/elasticsearch/reference/current/analysis-icu-plugin.html
+[es]: https://www.elastic.co/
+[icu]: https://www.elastic.co/guide/en/elasticsearch/plugins/current/analysis-icu.html
 
 ## Base Docker Image
 
-* [dockerfile/elasticsearch:2.2][upstream]
+* [docker.elastic.co/elasticsearch/elasticsearch:5.6.4][upstream]
 
-[upstream]: http://dockerfile.github.io/#/elasticsearch
+[upstream]: https://www.elastic.co/guide/en/elasticsearch/reference/5.6/docker.html
 
 ## Usage
 
@@ -24,7 +24,7 @@ See the documentation for [the upstream Dockerfile][upstream] for more details.
 
 ## License (MIT)
 
-Copyright (c) 2015-2016 [Peter Hellberg](http://c7.se/)
+Copyright (c) 2015-2017 [Peter Hellberg](https://c7.se/)
 
 > Permission is hereby granted, free of charge, to any person obtaining
 > a copy of this software and associated documentation files (the
